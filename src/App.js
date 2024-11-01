@@ -10,7 +10,7 @@ import Overview from "./Components/Overview";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/RecipeFinder">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="result" element={<Results />} />
