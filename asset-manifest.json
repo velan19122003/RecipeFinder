@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/velan19122003/RecipeFinder/static/css/main.1f00186d.css",
-    "main.js": "/velan19122003/RecipeFinder/static/js/main.8552b7e1.js",
+    "main.js": "/velan19122003/RecipeFinder/static/js/main.9ad8e685.js",
     "static/js/453.ef24f5cf.chunk.js": "/velan19122003/RecipeFinder/static/js/453.ef24f5cf.chunk.js",
     "static/media/pexels-minan1398-1482803.jpg": "/velan19122003/RecipeFinder/static/media/pexels-minan1398-1482803.acba1c6499cb84b4bc2b.jpg",
     "static/media/instagram.png": "/velan19122003/RecipeFinder/static/media/instagram.e719d8b29f452a16302d.png",
@@ -9,11 +9,11 @@
     "static/media/heart.png": "/velan19122003/RecipeFinder/static/media/heart.a882063e838d335ed3fb.png",
     "index.html": "/velan19122003/RecipeFinder/index.html",
     "main.1f00186d.css.map": "/velan19122003/RecipeFinder/static/css/main.1f00186d.css.map",
-    "main.8552b7e1.js.map": "/velan19122003/RecipeFinder/static/js/main.8552b7e1.js.map",
+    "main.9ad8e685.js.map": "/velan19122003/RecipeFinder/static/js/main.9ad8e685.js.map",
     "453.ef24f5cf.chunk.js.map": "/velan19122003/RecipeFinder/static/js/453.ef24f5cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f00186d.css",
-    "static/js/main.8552b7e1.js"
+    "static/js/main.9ad8e685.js"
   ]
 }
