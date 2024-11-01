@@ -11,7 +11,7 @@ function DevProfile() {
               <h4>Developed by</h4>
               <p>Velan S</p>
             </section>
-            <section className="col-6 pt-4 ps-5 pt-lg-5 d-flex flex-column align-items-center">
+            <section className="col-6 pt-2 ps-1 pt-lg-5 d-flex flex-column align-items-center">
               <ul className="d-lg-flex flex-lg-row pt-lg-3 social">
                 <li className="socialProfile m-1 nav-link">
                   <Link
@@ -43,10 +43,10 @@ function DevProfile() {
                   >
                     <img
                       src={require("../Assets/images/instagram.png")}
-                      className="pe-sm-2 pe-1"
+                      className="pe-sm-2 pe-2"
                       alt=""
                     />
-                    <span>Instagram</span>
+                    <span style={{ fontSize: 14 }}>Instagram</span>
                   </Link>
                 </li>
               </ul>
